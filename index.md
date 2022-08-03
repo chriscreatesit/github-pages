@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+ChrisCreates.it: Welcome to my GitHub
 ---
 
